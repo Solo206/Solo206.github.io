@@ -1,7 +1,7 @@
 Resume
 ======
 .. image:: Motivational.png
-	:width: 750px
+	:width: 725px
 	:align: center
 	:height: 500px
 
