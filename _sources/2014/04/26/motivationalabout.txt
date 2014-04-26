@@ -1,0 +1,11 @@
+Motivational About
+======
+.. image:: motivationalabout.png
+	:width: 725px
+	:align: center
+	:height: 500px
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::
