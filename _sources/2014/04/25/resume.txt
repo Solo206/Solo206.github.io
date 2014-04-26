@@ -1,9 +1,9 @@
 Resume
 ======
 .. image:: Motivational.png
-	:width: 600px
+	:width: 700px
 	:align: center
-	:height: 400px
+	:height: 500px
 
 .. author:: default
 .. categories:: none
