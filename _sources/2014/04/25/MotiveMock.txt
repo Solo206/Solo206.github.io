@@ -1,4 +1,4 @@
-Resume
+Motivational Mockup
 ======
 .. image:: Motivational.png
 	:width: 725px
