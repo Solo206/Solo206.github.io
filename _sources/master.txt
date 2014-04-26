@@ -4,8 +4,6 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
-   2014/04/26/motivatemock
-   2014/04/25/resume
-   2014/04/25/hello_world
-   pages/about
+   2014/04/25/Motivational_Mockup
+   
 
