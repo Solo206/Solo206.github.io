@@ -1,1 +1,1 @@
-Search.setIndex({envversion:42,terms:{},objtypes:{},objnames:{},filenames:["2014/04/25/Motivational_Mockup","2014/04/26/motivationalabout","master"],titles:["Motivational Mockup","Motivational About","Sitemap"],objects:{},titleterms:{about:1,motiv:[0,1],sitemap:2,mockup:0}})
+Search.setIndex({envversion:42,terms:{},objtypes:{},objnames:{},filenames:["2014/04/25/Motivational_Mockup","master","2014/04/25/motivationalabout"],titles:["Motivational Mockup","Sitemap","Motivational About"],objects:{},titleterms:{about:2,motiv:[0,2],sitemap:1,mockup:0}})
