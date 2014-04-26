@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/04/25/resume
    2014/04/25/hello_world
    pages/about
 
