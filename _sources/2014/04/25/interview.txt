@@ -1,0 +1,11 @@
+Motivational Interview
+=========
+.. image:: interview.png
+	:width: 700px
+	:align: center
+	:height: 500px
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::
