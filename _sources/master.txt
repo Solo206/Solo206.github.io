@@ -4,7 +4,13 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
-   2014/04/25/interview
-   2014/04/25/motivationalabout
-   2014/04/25/Motivational_Mockup
-   2014/04/25/tips
+   2014/05/14/hey_mock5
+   2014/05/14/hey_mock4
+   2014/05/14/hey_mock3
+   2014/05/14/hey_mock2
+   2014/05/14/hey_mock1
+   2014/05/14/motiv_wire
+   2014/05/14/about_wire
+   2014/05/14/iv_wire
+   2014/05/14/tips_wire
+

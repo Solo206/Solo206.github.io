@@ -1,0 +1,13 @@
+'Hey-Mock3'
+===========
+.. image:: hey_mock3.png
+   :height: 400px
+   :width: 700 px
+   :scale: 120 %
+   :alt: alternate text
+   :align: right
+   
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::
